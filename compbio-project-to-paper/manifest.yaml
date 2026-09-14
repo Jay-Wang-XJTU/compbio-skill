@@ -1,0 +1,41 @@
+name: compbio-project-to-paper
+version: 0.1.0
+description: >
+  Declarative routing for publication-oriented computational-biology project
+  triage, figure-story design, and manuscript architecture.
+
+axes:
+  task:
+    detect: |
+      Select project-triage when the user asks what to do next, what is required
+      before submission, what can wait for reviewers, or whether a project is
+      publication-ready. Select figure-story for figure order, panel design,
+      plot choice, visual encoding, or color requests. Select
+      manuscript-architecture for paper thesis, Results order, outline, or
+      initial-draft organization. Select every applicable value for integrated
+      project-to-paper requests.
+    values:
+      project-triage: references/project-triage.md
+      figure-story: references/figure-story-and-color.md
+      manuscript-architecture: references/manuscript-architecture.md
+    multi: true
+
+references:
+  on_demand:
+    - condition: benchmarking, validation, data leakage, generalization, robustness, interpretability, scalability, or reproducibility decisions
+      path: references/benchmark-and-evidence.md
+    - condition: comparison with the supplied classic-paper corpus, recent single-cell or spatial-omics method papers, or requests for publication precedent
+      path: references/paper-patterns.md
+    - condition: auditing the local corpus extraction or locating candidate caption pages in the original D:\\Work\\paper PDFs; local machine only
+      path: references/local-corpus-index.json
+    - condition: developing, reviewing, or behaviorally regression-testing this skill
+      path: references/evaluation-cases.md
+
+scripts:
+  paper_structure_index:
+    path: scripts/extract_paper_structure.py
+    use_when: inspecting one or more scientific PDFs before targeted text and rendered-page review
+    output: compact JSON index; never a substitute for visual figure inspection
+  skill_validator:
+    path: scripts/validate_skill_contract.py
+    use_when: after creating or modifying this skill

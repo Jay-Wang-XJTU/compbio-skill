@@ -1,0 +1,1297 @@
+[
+  {
+    "file": "D:\\Work\\paper\\2025.04.11.648220v1.full.pdf",
+    "pages": 51,
+    "pdf_metadata_title": "CellFlow enables generative single-cell phenotype modeling with flow matching",
+    "title_candidates": [
+      "CellFlow enables generative single-cell phenotype",
+      "modeling with flow matching",
+      "Dominik Klein 1,2,*, Jonas Simon Fleck 3,*, Daniil Bobrovskiy 3,4, Lea Zimmermann 1, Sören Becker 1,2,5, Alessandro",
+      "Palma 1,2, Leander Dony 1,6, Alejandro Tejada-Lapuerta 1,2, Guillaume Huguet 7,8, Hsiu-Chuan Lin6, Nadezhda"
+    ],
+    "dois": [
+      "10.1016/j.stem.2024",
+      "10.1101/2024.01.29.576933",
+      "10.1101/2025.03.20.644368",
+      "10.1101/2025.04.11.648220doi:",
+      "10.1126/science.adf1226",
+      "10.15252/msb.20209620",
+      "10.18637/jss"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 1,
+        "text": "Introduction"
+      },
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 13,
+        "text": "Discussion"
+      },
+      {
+        "page": 14,
+        "text": "ACKNOWLEDGEMENTS"
+      },
+      {
+        "page": 14,
+        "text": "DATA AVAILABILITY"
+      },
+      {
+        "page": 14,
+        "text": "CODE AVAILABILITY"
+      }
+    ],
+    "captions": [
+      {
+        "page": 2,
+        "text": "Figure 1. CellFlow: a tool to explore cellular phenotypic space (A)Cells"
+      },
+      {
+        "page": 3,
+        "text": "Figure 2. CellFlow exhibits interpretable and scalable training behaviour on 10 million PBMCs. (A) Peripheral Blood Mononuclear Cells (PBMCs)"
+      },
+      {
+        "page": 6,
+        "text": "Figure 3. Organism-scale prediction of perturbed zebrafish development (A) ZSCAPE7 (zebrafish single-cell atlas of perturbed embryos) captures"
+      },
+      {
+        "page": 8,
+        "text": "Figure 4. CellFlow outperforms other methods on diverse perturbation prediction tasks. (A) The sciPlex3 dataset contains measurements of three"
+      },
+      {
+        "page": 9,
+        "text": "Figure 5D and Figure S9A-C). We additionally sought to"
+      },
+      {
+        "page": 10,
+        "text": "Figure 5. Neuron fate prediction from combinatorial morphogen treatment to enable condition prioritization. (A) Schematic of the experimental"
+      },
+      {
+        "page": 12,
+        "text": "Figure 6. Integrated learning from systematic morphogen experiments enables virtual neural organoid protocol screening. (A) Schematic of in-"
+      },
+      {
+        "page": 25,
+        "text": "Figure 6H"
+      },
+      {
+        "page": 42,
+        "text": "Table 2 for parameters."
+      },
+      {
+        "page": 44,
+        "text": "Table 4."
+      },
+      {
+        "page": 44,
+        "text": "Figure 4H-K are based on split 3. For fitting a regression model for predicting log fold-changes on the learn condition"
+      }
+    ],
+    "caption_pages": [
+      2,
+      3,
+      6,
+      8,
+      9,
+      10,
+      12,
+      25,
+      42,
+      44
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\PIIS0092867426004575.pdf",
+    "pages": 73,
+    "pdf_metadata_title": "RegVelo: Gene-regulatory-informed dynamics of single cells",
+    "title_candidates": [
+      "RegVelo: Gene-regulatory -informed dynamics of",
+      "• RegVelo integrates scRNA-s eq with prior GRN knowledg e to",
+      "infer regulatory dynamics",
+      "• Transcripti on is modeled as a regulated process to capture"
+    ],
+    "dois": [
+      "10.1002/dvdy.24225",
+      "10.1016/S0927",
+      "10.1016/j",
+      "10.1016/j.ce",
+      "10.1016/j.cell.2014.04",
+      "10.1016/j.cell.2026.04.022",
+      "10.1016/j.celrep.2021.110",
+      "10.1016/j.cels.2016.08.011",
+      "10.1016/j.gde.2022",
+      "10.1016/j.ydbio.20"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "INTRODUCTION"
+      },
+      {
+        "page": 3,
+        "text": "RESULTS"
+      },
+      {
+        "page": 20,
+        "text": "DISCUSSION"
+      },
+      {
+        "page": 22,
+        "text": "ACKNOWLEDGMENTS"
+      },
+      {
+        "page": 23,
+        "text": "REFERENCES"
+      }
+    ],
+    "captions": [
+      {
+        "page": 4,
+        "text": "Figure 1. RegVelo models dynamics of cells and their underlying gene regulatory networks jointly"
+      },
+      {
+        "page": 7,
+        "text": "Figure 2. Perturbation simulation quantifies genetic regulation effects on cell fate decisions in pancreatic endocrinogenesis"
+      },
+      {
+        "page": 10,
+        "text": "Figure 3. Inferring regulatory dynamics during human hematopoiesis differentiation, embryonic myogenesis, and hindbrain development"
+      },
+      {
+        "page": 13,
+        "text": "Figure 4. RegVelo uncovers key regulators of cell fate decisions during zebrafish neural crest development"
+      },
+      {
+        "page": 15,
+        "text": "Figure 5. RegVelo predicts perturbation effects of key regulators during zebrafish neural crest development"
+      },
+      {
+        "page": 17,
+        "text": "Figure 6. tfec regulates pigment cell development as an early driver"
+      },
+      {
+        "page": 20,
+        "text": "Figure 7. RegVelo identifies an early pigment lineage driver, elf1, together with its regulatory context"
+      }
+    ],
+    "caption_pages": [
+      4,
+      7,
+      10,
+      13,
+      15,
+      17,
+      20
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41467-026-71759-4 (2).pdf",
+    "pages": 19,
+    "pdf_metadata_title": "CellNiche represents cellular microenvironments in atlas-scale spatial omics data with contrastive learning",
+    "title_candidates": [
+      "CellNiche represents cellular",
+      "microenvironments in atlas-scale spatial",
+      "omics data with contrastive learning",
+      "Zhongming Liang 1,2,3 , Bingxu Zhong 4, Mingqi Jiao 1,"
+    ],
+    "dois": [
+      "10.1038/s41467-026-71759-4",
+      "10.1101/2024.05.27",
+      "10.1101/2025.02.05.636714(2025",
+      "10.48550/arXiv.2312.11109(2023",
+      "10.5281/zenodo",
+      "10.5281/zenodo.19143524)65"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 4,
+        "text": "methods"
+      },
+      {
+        "page": 12,
+        "text": "Discussion"
+      },
+      {
+        "page": 12,
+        "text": "Methods"
+      },
+      {
+        "page": 17,
+        "text": "Data availability"
+      },
+      {
+        "page": 17,
+        "text": "Code availability"
+      },
+      {
+        "page": 17,
+        "text": "References"
+      },
+      {
+        "page": 18,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 4,
+        "text": "Fig. 1 | Overview of CellNiche. aOverview of CellNiche. CellNiche comprises three"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 2 | Benchmarking CellNiche across spatial transcriptomics and spatial"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 3 | CellNiche performance on complex tissue structures and pathological"
+      },
+      {
+        "page": 7,
+        "text": "Fig. 6), further highlighting its computational scalability."
+      },
+      {
+        "page": 7,
+        "text": "Fig. 17b–d)."
+      },
+      {
+        "page": 9,
+        "text": "Fig. 4 | CellNiche deciphers cellular microenvironments in NSCLC. aCell-type"
+      },
+      {
+        "page": 11,
+        "text": "Fig. 6 | CellNiche can integrate heterogeneous maps across platforms."
+      },
+      {
+        "page": 13,
+        "text": "Fig. 7 | CellNiche enables harmonized integration of tissue regions across"
+      }
+    ],
+    "caption_pages": [
+      4,
+      5,
+      6,
+      7,
+      9,
+      11,
+      13
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41587-020-0591-3.pdf",
+    "pages": 13,
+    "pdf_metadata_title": "Generalizing RNA velocity to transient cell states through dynamical modeling",
+    "title_candidates": [
+      "1Institute of Computational Biology, Helmholtz Center Munich, Munich, Germany. 2Department of Mathematics, T echnical University of Munich,",
+      "Munich, Germany. ✉e-mail: alex.wolf@helmholtz-muenchen.de; fabian.theis@helmholtz-muenchen.de",
+      "ingle-cell transcriptomics has enabled the unbiased study of",
+      "biological processes such as cellular differentiation and lineage"
+    ],
+    "dois": [
+      "10.1038/s41587-020-0591-3",
+      "10.1101/056499v2",
+      "10.1101/336305v1",
+      "10.1101/673285v2",
+      "10.1101/696724v1",
+      "10.1101/705244v2"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 6,
+        "text": "Discussion"
+      },
+      {
+        "page": 7,
+        "text": "References"
+      },
+      {
+        "page": 8,
+        "text": "Methods"
+      },
+      {
+        "page": 11,
+        "text": "Data availability"
+      },
+      {
+        "page": 11,
+        "text": "References"
+      },
+      {
+        "page": 11,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 2,
+        "text": "Fig. 1 | Solving the full splicing kinetics generalizes RNA velocity to transient populations. a, Modeling transcriptional dynamics captures transcriptional"
+      },
+      {
+        "page": 3,
+        "text": "Fig. 6a) and experimental analysis"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 2 | Resolving subpopulation kinetics and identifying dynamical genes in neurogenesis. a, Velocities derived from the dynamical model for dentate"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 3 | Delineating cycling progenitors and lineage commitment and disentangling cell fates and regimes of transcriptional activity through latent"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 13). Investigations of a stochastic dynamical model are left for"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 12a). This manifests as a straight line in the unspliced to spliced"
+      }
+    ],
+    "caption_pages": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41588-025-02120-6 (2).pdf",
+    "pages": 35,
+    "pdf_metadata_title": "Quantitative characterization of cell niches in spatially resolved omics data",
+    "title_candidates": [
+      "Nature Genetics | Volume 57 | April 2025 | 897–909",
+      "Quantitative characterization of cell niches",
+      "in spatially resolved omics data",
+      "Sebastian Birk 1,2,3,4, Irene Bonafonte-Pardàs5,6, Adib Miraki Feriz4,"
+    ],
+    "dois": [
+      "10.1038/s41588-025-02120-6",
+      "10.1101/2021.01.04.425268",
+      "10.1101/2022.01.14.476408",
+      "10.1101/2023.06.13.544751",
+      "10.1101/2023.08.28.554970",
+      "10.21203/rs.3.rs-2092898/v1",
+      "10.5281/zenodo.14621258",
+      "10.5281/zenodo.14632687"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 10,
+        "text": "Discussion"
+      },
+      {
+        "page": 10,
+        "text": "References"
+      },
+      {
+        "page": 14,
+        "text": "Methods"
+      },
+      {
+        "page": 18,
+        "text": "Data availability"
+      },
+      {
+        "page": 18,
+        "text": "Code availability"
+      },
+      {
+        "page": 18,
+        "text": "References"
+      },
+      {
+        "page": 18,
+        "text": "Acknowledgements"
+      },
+      {
+        "page": 35,
+        "text": "Methods"
+      }
+    ],
+    "captions": [
+      {
+        "page": 3,
+        "text": "Fig. 1 | Overview of NicheCompass. a, NicheCompass takes single-sample"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 2 | NicheCompass reveals cellular interactions shaping tissue"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 4b,c and Supplementary Note 10). It identified distinct niches,"
+      },
+      {
+        "page": 5,
+        "text": "Supplementary Fig. 25a). Clustering the embeddings revealed 14 niches"
+      },
+      {
+        "page": 5,
+        "text": "Supplementary Fig. 26c) comprising basal markers KRT16, KRT14, KRT5,"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 3 | Benchmarking NicheCompass across diverse scenarios. a, Coronal mouse"
+      },
+      {
+        "page": 7,
+        "text": "Fig. 27), most cancer cells (92%) formed tumor-exclusive niches (>75%"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 28b,c), also clustered into niche 3, demonstrating the identification"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 5 | NicheCompass spatial reference mapping contextualizes new donors"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 4 | NicheCompass identifies meaningful niches and de novo programs in"
+      },
+      {
+        "page": 10,
+        "text": "Fig. 32). Applications to mouse organogenesis, the adult mouse brain"
+      },
+      {
+        "page": 20,
+        "text": "Extended Data Fig. 1 | Enriched programs in gut and brain niches. a, Programs"
+      },
+      {
+        "page": 21,
+        "text": "Extended Data Fig. 2 | See next page for caption."
+      },
+      {
+        "page": 22,
+        "text": "Extended Data Fig. 2 | Niche and program inference reproducibility,"
+      },
+      {
+        "page": 23,
+        "text": "Extended Data Fig. 3 | See next page for caption."
+      },
+      {
+        "page": 24,
+        "text": "Extended Data Fig. 3 | Data simulation. a, The reference-based simulated tissue"
+      },
+      {
+        "page": 25,
+        "text": "Extended Data Fig. 4 | See next page for caption."
+      },
+      {
+        "page": 26,
+        "text": "Extended Data Fig. 4 | Benchmarking on the nanoString CosMx human"
+      },
+      {
+        "page": 27,
+        "text": "Extended Data Fig. 5 | Analysis of inter-tumoral heterogeneity."
+      },
+      {
+        "page": 28,
+        "text": "Extended Data Fig. 6 | Characterization of stromal niches. a, Each row"
+      },
+      {
+        "page": 29,
+        "text": "Extended Data Fig. 7 | Niches identified in the mouse brain are consistent"
+      },
+      {
+        "page": 30,
+        "text": "Extended Data Fig. 8 | NicheCompass integrates 8.4 million cells across"
+      },
+      {
+        "page": 31,
+        "text": "Extended Data Fig. 9 | NicheCompass integrates samples across different"
+      },
+      {
+        "page": 32,
+        "text": "Extended Data Fig. 10 | seqFISH mouse organogenesis spatial reference"
+      }
+    ],
+    "caption_pages": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41592-019-0494-8.pdf",
+    "pages": 10,
+    "pdf_metadata_title": "scGen predicts single-cell perturbation responses",
+    "title_candidates": [
+      "1Helmholtz Zentrum München – German Research Center for Environmental Health, Institute of Computational Biology, Neuherberg, Germany.",
+      "2School of Life Sciences Weihenstephan, T echnical University of Munich, Munich, Germany. 3Department of Mathematics, T echnical University",
+      "of Munich, Munich, Germany. *e-mail: alex.wolf@helmholtz-muenchen.de; fabian.theis@helmholtz-muenchen.de",
+      "ingle-cell transcriptomics has become an established tool for"
+    ],
+    "dois": [
+      "10.1038/s41592-019-0494-8",
+      "10.1101/262501",
+      "10.1101/351767v1",
+      "10.1101/390153",
+      "10.1101/397042",
+      "10.1101/455451"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 1,
+        "text": "Results"
+      },
+      {
+        "page": 5,
+        "text": "discussion"
+      },
+      {
+        "page": 6,
+        "text": "References"
+      },
+      {
+        "page": 7,
+        "text": "Acknowledgements"
+      },
+      {
+        "page": 8,
+        "text": "Methods"
+      },
+      {
+        "page": 8,
+        "text": "Code availability"
+      },
+      {
+        "page": 8,
+        "text": "References"
+      },
+      {
+        "page": 10,
+        "text": "Methods"
+      }
+    ],
+    "captions": [
+      {
+        "page": 2,
+        "text": "Fig. 2b and inset ‘top 100 DEGs’). To evaluate generality, we trained"
+      },
+      {
+        "page": 2,
+        "text": "Supplementary Fig. 2a)."
+      },
+      {
+        "page": 2,
+        "text": "Fig. 4a). In contrast to CV AE representations, the scGen (V AE)"
+      },
+      {
+        "page": 2,
+        "text": "Fig. 1 | scGen, a method to predict single-cell perturbation response. Given a set of observed cell types in control and stimulation, we aim to predict the"
+      },
+      {
+        "page": 3,
+        "text": "Figure 3c,d depicts similar analyses for both data sets and all occur-"
+      },
+      {
+        "page": 3,
+        "text": "Fig. 2 | scGen accurately predicts single-cell perturbation response out-of-sample. a, UMAP visualization37 of the distributions of conditions, cell"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 3 | scGen models infection response in two data sets of intestinal epithelial cells. a,b, Prediction of early transit-amplifying (TA.early) cells from two"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 4 | scGen accurately predicts single-cell perturbation across different studies. a, scGen can be used to translate the effect of a stimulation trained in"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 5 | scGen predicts perturbation response across different species. a, Prediction of unseen LPS perturbed rat phagocytes on control and stimulated"
+      }
+    ],
+    "caption_pages": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41592-023-02124-2.pdf",
+    "pages": 32,
+    "pdf_metadata_title": "Unsupervised and supervised discovery of tissue cellular neighborhoods from cell phenotypes",
+    "title_candidates": [
+      "Nature Methods | Volume 21 | February 2024 | 267–278",
+      "Unsupervised and supervised discovery",
+      "of tissue cellular neighborhoods from",
+      "Yuxuan Hu 1 , Jiazhen Rong 2, Yafei Xu1, Runzhi Xie1, Jacqueline Peng2,"
+    ],
+    "dois": [
+      "10.1038/s41592-",
+      "10.1038/s41592-023-02124-2",
+      "10.1101/2020.05.31.125658",
+      "10.5061/dryad.8t8s248"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 11,
+        "text": "Discussion"
+      },
+      {
+        "page": 11,
+        "text": "References"
+      },
+      {
+        "page": 13,
+        "text": "Methods"
+      },
+      {
+        "page": 15,
+        "text": "Data availability"
+      },
+      {
+        "page": 15,
+        "text": "Code availability"
+      },
+      {
+        "page": 15,
+        "text": "References"
+      },
+      {
+        "page": 16,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 2,
+        "text": "Fig. 2); and (3) the granularity of cell-type annotation (Extended Data"
+      },
+      {
+        "page": 3,
+        "text": "Fig. 1 | Schematic diagram of the CytoCommunity algorithm. Given single-"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 2 | Performance evaluation of the unsupervised CytoCommunity"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 3 | Performance evaluation of the unsupervised CytoCommunity"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 4 | Performance evaluation of the supervised CytoCommunity algorithm"
+      },
+      {
+        "page": 8,
+        "text": "Extended Data Fig. 8). The TCNs identified by CytoCommunity were"
+      },
+      {
+        "page": 8,
+        "text": "Extended Data Fig. 9a,b). This is consistent with the previous report"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 5 | Coordinated neoplastic and immune cell-type distributions within or"
+      },
+      {
+        "page": 11,
+        "text": "Fig. 6g, or block immune cells from entering the tumor nests as shown"
+      },
+      {
+        "page": 11,
+        "text": "Fig. 6 | Coordinated neoplastic and stromal cell-type distributions within or"
+      },
+      {
+        "page": 15,
+        "text": "Fig. 5b–d,f–h), we found that a CLR-specific cell–cell communication"
+      },
+      {
+        "page": 15,
+        "text": "Table 1), including a mouse spleen CODEX dataset (https://data.men-"
+      },
+      {
+        "page": 17,
+        "text": "Extended Data Fig. 1 | Robustness assessment of CytoCommunity"
+      },
+      {
+        "page": 18,
+        "text": "Extended Data Fig. 2 | See next page for caption."
+      },
+      {
+        "page": 19,
+        "text": "Extended Data Fig. 2 | Effect of number of models of the ensemble procedure"
+      },
+      {
+        "page": 20,
+        "text": "Extended Data Fig. 3 | See next page for caption."
+      },
+      {
+        "page": 21,
+        "text": "Extended Data Fig. 3 | Robustness assessment of CytoCommunity"
+      },
+      {
+        "page": 22,
+        "text": "Extended Data Fig. 4 | See next page for caption."
+      },
+      {
+        "page": 23,
+        "text": "Extended Data Fig. 4 | Performance evaluation using MIBI- TOF data of"
+      },
+      {
+        "page": 24,
+        "text": "Extended Data Fig. 5 | Performance evaluation using MIBI- TOF data of mixed"
+      },
+      {
+        "page": 25,
+        "text": "Extended Data Fig. 6 | Analysis of TCNs in colorectal cancer identified by the"
+      },
+      {
+        "page": 26,
+        "text": "Extended Data Fig. 7 | Representative TCNs specific to low- and high-risk"
+      },
+      {
+        "page": 27,
+        "text": "Extended Data Fig. 8 | Analysis of TCNs in breast cancer identified by the"
+      },
+      {
+        "page": 28,
+        "text": "Extended Data Fig. 9 | Representative TCNs specific to low- and high-risk"
+      },
+      {
+        "page": 29,
+        "text": "Extended Data Fig. 10 | Prognosis ability of TCNs identified in breast cancer."
+      }
+    ],
+    "caption_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      11,
+      15,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41592-024-02303-9.pdf",
+    "pages": 32,
+    "pdf_metadata_title": "CellRank 2: unified fate mapping in multiview single-cell data",
+    "title_candidates": [
+      "Nature Methods | Volume 21 | July 2024 | 1196–1205 1196",
+      "CellRank 2: unified fate mapping in",
+      "multiview single-cell data",
+      "Philipp Weiler 1,2,8, Marius Lange 1,2,3,8, Michal Klein1,4, Dana Pe’ er5,6 &"
+    ],
+    "dois": [
+      "10.1038/s41467-021-",
+      "10.1038/s41587-024-02241-z",
+      "10.1038/s41592-024-02303-9",
+      "10.1038/s43586-022-00157-z",
+      "10.1101/2021.12.16.473007",
+      "10.1101/2023.04.14.536867",
+      "10.1101/2023.05.11.540374",
+      "10.1101/2023.06.21.545990",
+      "10.1101/2023.07.06.547989",
+      "10.1126/sciadv.aay0264"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 6,
+        "text": "Discussion"
+      },
+      {
+        "page": 8,
+        "text": "References"
+      },
+      {
+        "page": 11,
+        "text": "Methods"
+      },
+      {
+        "page": 17,
+        "text": "Data availability"
+      },
+      {
+        "page": 17,
+        "text": "Code availability"
+      },
+      {
+        "page": 17,
+        "text": "References"
+      },
+      {
+        "page": 17,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 2,
+        "text": "Fig. 1 | CellRank 2 provides a unified framework for studying single-cell"
+      },
+      {
+        "page": 3,
+        "text": "Fig. 2 | Leveraging pseudotemporal ordering for cellular fate mapping."
+      },
+      {
+        "page": 4,
+        "text": "Extended Data Fig. 5a) and allowed us to identify 10 of 11 terminal cell"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 5b). In contrast, Palantir5 and DPT1 identified a bimodal population"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 3 | The CytoTRACEKernel recovers temporal gene activation."
+      },
+      {
+        "page": 5,
+        "text": "Fig. 7d–g)."
+      },
+      {
+        "page": 5,
+        "text": "Fig. 8b). Correlating fate probabilities with gene expression correctly"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 4 | Inferring state trajectories through time-resolved measurements."
+      },
+      {
+        "page": 6,
+        "text": "Fig. 9d,e). We speculate that this decrease in performance is caused"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 9f)."
+      },
+      {
+        "page": 6,
+        "text": "Fig. 10e and Methods)."
+      },
+      {
+        "page": 7,
+        "text": "Fig. 5 | Quantifying lineage-specific regulation strategies through metabolic"
+      },
+      {
+        "page": 12,
+        "text": "Fig. 2a). T o reduce the runtime further, we devised an alternative but"
+      },
+      {
+        "page": 13,
+        "text": "Fig. 4b,c). The considered datasets are bone marrow77 (using 10x and"
+      },
+      {
+        "page": 19,
+        "text": "Extended Data Fig. 1 | Guiding kernel choice in CellRank 2. CellRank 2"
+      },
+      {
+        "page": 20,
+        "text": "Extended Data Fig. 2 | CellRank 2 scales to large cell numbers. a. Runtime"
+      },
+      {
+        "page": 21,
+        "text": "Extended Data Fig. 3 | Performance of the VelocityKernel compared to the"
+      },
+      {
+        "page": 22,
+        "text": "Extended Data Fig. 4 | Developing the CytoTRACEKernel. a. Similar to the"
+      },
+      {
+        "page": 23,
+        "text": "Extended Data Fig. 5 | The CytoTRACEKernel recovers developmental"
+      },
+      {
+        "page": 24,
+        "text": "Extended Data Fig. 6 | Developing the RealTimeKernel. a. Force-directed"
+      },
+      {
+        "page": 25,
+        "text": "Extended Data Fig. 7 | See next page for caption."
+      },
+      {
+        "page": 26,
+        "text": "Extended Data Fig. 7 | The RealTimeKernel models fate decisions on a"
+      },
+      {
+        "page": 27,
+        "text": "Extended Data Fig. 8 | Initial and terminal state identification of pharyngeal"
+      },
+      {
+        "page": 28,
+        "text": "Extended Data Fig. 9 | Putative mTEC progenitors. a. UMAP embedding"
+      },
+      {
+        "page": 28,
+        "text": "Fig. 4f. f. Gene ranking when performing classical differential expression analysis"
+      },
+      {
+        "page": 29,
+        "text": "Extended Data Fig. 10 | T erminal state analysis for metabolically labeled"
+      }
+    ],
+    "caption_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      12,
+      13,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41592-026-03007-y.pdf",
+    "pages": 21,
+    "pdf_metadata_title": "DECODE: deep learning-based common deconvolution framework for various omics data",
+    "title_candidates": [
+      "Nature Methods | Volume 23 | March 2026 | 596–608 596",
+      "DECODE: deep learning-based common",
+      "deconvolution framework for various",
+      "Tianyi Zhao 1,2,8, Renjie Liu2,3,8, Yuzhi Sun3,8, Bingtian Wang3, Liyuan Zhang3,"
+    ],
+    "dois": [
+      "10.1038/s41592-026-03007-y",
+      "10.17632/vs8m5g-",
+      "10.5281/zenodo.15682763",
+      "10.5281/zenodo.15682763)82",
+      "10.5281/zenodo.17045605"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 10,
+        "text": "Methods"
+      },
+      {
+        "page": 11,
+        "text": "Discussion"
+      },
+      {
+        "page": 11,
+        "text": "References"
+      },
+      {
+        "page": 14,
+        "text": "Methods"
+      },
+      {
+        "page": 17,
+        "text": "Data availability"
+      },
+      {
+        "page": 18,
+        "text": "Code availability"
+      },
+      {
+        "page": 18,
+        "text": "References"
+      },
+      {
+        "page": 18,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 3,
+        "text": "Fig. 1 | Framework of DECODE. The framework consists of four stages."
+      },
+      {
+        "page": 4,
+        "text": "Fig. 2 | Overview of DECODE’s transcriptomics and proteomics data"
+      },
+      {
+        "page": 6,
+        "text": "Fig. 3 | Overview of DECODE’s metabolomics data deconvolution"
+      },
+      {
+        "page": 7,
+        "text": "Fig. 4 | Overview of DECODE’s cell state deconvolution performance across"
+      },
+      {
+        "page": 8,
+        "text": "Supplementary Fig. 17a,b); sample-wise CCC values across the"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 6b, where DECODE yields highly similar cell abundances across"
+      },
+      {
+        "page": 9,
+        "text": "Fig. 5 | Evaluation of robustness under four perturbation scenarios. a, The CCC"
+      },
+      {
+        "page": 10,
+        "text": "Fig. 6 | Application of DECODE to pseudo and real multiomics cohorts."
+      },
+      {
+        "page": 10,
+        "text": "Fig. 17. b, DECODE’s deconvolution results for 50 test samples (n = 5 cell types)."
+      }
+    ],
+    "caption_pages": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "file": "D:\\Work\\paper\\s41592-026-03153-3.pdf",
+    "pages": 30,
+    "pdf_metadata_title": "NicheTrans: spatial-aware cross-omics translation",
+    "title_candidates": [
+      "Nature Methods | Volume 23 | August 2026 | 1528–1539 1528",
+      "NicheTrans: spatial-aware cross-omics",
+      "Zhikang Wang 1,2,3,4,8, Qi Zou 1,2,5,8, Senlin Lin 1,2,6,8, Sijie Li 1,2,8, Yan Cui1,2,",
+      "Daoliang Zhang1,2, Chuangyi Han 1,2, Yida Li3,4, Jianmin Li7, Yi Zhao 6, Rui Gao5,"
+    ],
+    "dois": [
+      "10.1038/s41592-026-03153-3",
+      "10.1101/2024.06.29.601330",
+      "10.1101/2024.12.05.626986",
+      "10.17632/w7nw4km7xd.1",
+      "10.5281/zenodo.10362607",
+      "10.5281/zenodo.7332091",
+      "10.5281/zenodo.7480069"
+    ],
+    "abstract": "",
+    "headings": [
+      {
+        "page": 2,
+        "text": "Results"
+      },
+      {
+        "page": 6,
+        "text": "methods"
+      },
+      {
+        "page": 9,
+        "text": "Methods"
+      },
+      {
+        "page": 11,
+        "text": "Discussion"
+      },
+      {
+        "page": 11,
+        "text": "References"
+      },
+      {
+        "page": 13,
+        "text": "Methods"
+      },
+      {
+        "page": 16,
+        "text": "Data availability"
+      },
+      {
+        "page": 16,
+        "text": "Code availability"
+      },
+      {
+        "page": 16,
+        "text": "References"
+      },
+      {
+        "page": 16,
+        "text": "Acknowledgements"
+      }
+    ],
+    "captions": [
+      {
+        "page": 3,
+        "text": "Fig. 1 | Motivation for spatial multiomics translation methods. a, Dot plots"
+      },
+      {
+        "page": 4,
+        "text": "Fig. 2 | Schematic overview of NicheTrans and its downstream applications."
+      },
+      {
+        "page": 5,
+        "text": "Fig. 4b,c demonstrate that spatial single-omics data alone cannot fully"
+      },
+      {
+        "page": 5,
+        "text": "Figure 4g represents the top 30 genes identified by the inter -"
+      },
+      {
+        "page": 5,
+        "text": "Fig. 3 | Quantitative and qualitative evaluation on the SMA dataset. a, Data"
+      },
+      {
+        "page": 7,
+        "text": "Figure 5e illustrates the translation results from five single-cell (non-"
+      },
+      {
+        "page": 7,
+        "text": "Fig. 4 | Spatial domain identification and gene program-metabolite"
+      },
+      {
+        "page": 8,
+        "text": "Supplementary Fig. 1. Across all these measures, NicheTrans* consist-"
+      },
+      {
+        "page": 8,
+        "text": "Fig. 5 | Quantitative and qualitative evaluation on the ST ARmap PLUS dataset."
+      },
+      {
+        "page": 10,
+        "text": "Extended Data Fig. 2c, we visualized the top four genes, C1qa (encode"
+      },
+      {
+        "page": 10,
+        "text": "Extended Data Fig. 6a,b; the attention analysis is described in the"
+      },
+      {
+        "page": 10,
+        "text": "Fig. 6 | Spatial organization and attribution analysis regarding Aβ."
+      },
+      {
+        "page": 13,
+        "text": "Extended Data Fig. 2b. The intersection of the top 2,000 highly variable"
+      },
+      {
+        "page": 13,
+        "text": "Supplementary Fig. 6. Given a dataset consisted of N cells, the nth niche"
+      },
+      {
+        "page": 18,
+        "text": "Extended Data Fig. 1 | GO enrichment analysis and data visualization of the"
+      },
+      {
+        "page": 19,
+        "text": "Extended Data Fig. 2 | GO enrichment analysis and data visualization of the"
+      },
+      {
+        "page": 20,
+        "text": "Extended Data Fig. 3 | Extending the NicheTrans trained on ST ARmap PLUS sequenced data to Slide-seq-v2 sequenced data. a. AD model slice 1 colored by Leiden"
+      },
+      {
+        "page": 21,
+        "text": "Extended Data Fig. 4 | Aβ co-localization analysis. Aβ co-localization analysis on other cell types, including Astro1, Astro2, Micro1, Micro2, Oligo2, and Oligo3. Cell"
+      },
+      {
+        "page": 22,
+        "text": "Extended Data Fig. 5 | Extending NicheTrans to human breast cancer and"
+      },
+      {
+        "page": 23,
+        "text": "Extended Data Fig. 6 | Protein attribution analysis and testing on the breast"
+      },
+      {
+        "page": 24,
+        "text": "Extended Data Fig. 7 | See next page for caption."
+      },
+      {
+        "page": 25,
+        "text": "Extended Data Fig. 7 | Omics interaction analysis. a. Interactions between"
+      },
+      {
+        "page": 26,
+        "text": "Extended Data Fig. 8 | See next page for caption."
+      },
+      {
+        "page": 27,
+        "text": "Extended Data Fig. 8 | Omics interaction analysis. a. Interactions between"
+      }
+    ],
+    "caption_pages": [
+      3,
+      4,
+      5,
+      7,
+      8,
+      10,
+      13,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  }
+]

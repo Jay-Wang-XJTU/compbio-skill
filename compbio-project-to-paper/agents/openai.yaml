@@ -1,0 +1,4 @@
+interface:
+  display_name: "CompBio Project to Paper"
+  short_description: "Plan publishable computational biology projects"
+  default_prompt: "Use $compbio-project-to-paper to assess this project, prioritize the next analyses, and shape its figure and manuscript story."
